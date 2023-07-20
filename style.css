@@ -1,0 +1,35 @@
+h1 {
+    background-color: rgb(67, 60, 110);
+    color:rgb(188, 173, 253);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1%;
+    padding: 0.50%;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+nav {
+    background-color: rgb(67, 60, 110);
+    color:rgb(188, 173, 253);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1%;
+    padding: 1%;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+div {
+    background-color:rgb(116, 118, 248);
+    padding: 1%;
+    
+}
+p {
+    background-color:rgb(169, 170, 248);
+    
+}
+h3 {
+    color: rgb(37, 33, 63);
+    background-color:rgb(116, 118, 248);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.navlink {color: rgb(188, 173, 253);
+}
+a {color: rgb(29, 20, 87);}
